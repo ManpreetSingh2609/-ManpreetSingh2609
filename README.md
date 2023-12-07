@@ -15,7 +15,7 @@
 ## 👯 Open to Collaboration
 
 - **Collaborative Opportunities:**
-  - Open to collaborative opportunities in web development, artificial intelligence, and cloud technologies. Interested in working alongside like-minded professionals to create impactful and innovative solutions.
+  - Open to collaborative opportunities in Web development, Artificial intelligence and Competitve Coding. Interested in working alongside like-minded professionals to create impactful and innovative solutions.
 
 ## 🤔 Seeking Assistance
 
@@ -25,12 +25,12 @@
 ## 💬 Ask Me About
 
 - **Expertise:**
-  - Feel free to inquire about Python, web development, cloud computing, or my experiences in organizing and participating in coding contests. I am happy to share insights and experiences.
+  - Feel free to talk about Python, Web development and Coding. I am happy to share insights and experiences.
 
 ## 📫 Contact Information
 
 - **Professional Inquiries:**
-  - For professional inquiries, please reach out via email at [your@email.com](mailto:your@email.com) or connect with me on LinkedIn at [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile). Open to discussions, collaboration, and networking.
+  - For professional inquiries, please reach out via LinkedIn at [manpreetsingh2609]([https://www.linkedin.com/in/manpreetsingh2609/). Open to discussions, collaboration, and networking.
 
 ## ⚡ Interesting Fact
 
