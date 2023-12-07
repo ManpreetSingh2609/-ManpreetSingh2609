@@ -1,6 +1,6 @@
 ### Hi 👋
 
-# About Me
+# About Manpreet
 
 ## 🔭 Current Projects
 
